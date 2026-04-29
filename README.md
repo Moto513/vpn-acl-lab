@@ -1,4 +1,4 @@
-# VPN ACL Behavior Lab
+# VPN ACL Limitation and Network Segmentation
 
 ## Overview
 This repository documents a practical lab validation of VPN client access control using ACLs on a small business router.
