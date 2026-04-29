@@ -149,6 +149,8 @@ ACL alone is not sufficient without proper network isolation.
 - Behavior may vary depending on implementation
 - Always validate in a lab environment before production deployment
 
+---
+
 ## Why This Matters
 
 In real-world environments, ACL alone is often insufficient.
